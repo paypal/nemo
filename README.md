@@ -1,5 +1,8 @@
-# Welcome to the `paypal/nemo` temporary github.io page
+# Welcome to the paypal/nemo temporary github.io page
 
-To find the current Nemo website, please go to: [http://nemo.js.org](http://nemo.js.org)
+## Places you may want to go
 
-Nemo is in the process of refactoring and moving to the krakenjs org: [https://github.com/krakenjs/nemo](https://github.com/krakenjs/nemo)
+- Current Nemo (versions 2 and 3)
+  - github repo: [https://github.com/paypal/nemo-core](https://github.com/paypal/nemo-core)
+  - website: [http://nemo.js.org](http://nemo.js.org)
+- Nemo (version 4) website: [https://github.com/krakenjs/nemo](https://github.com/krakenjs/nemo)
